@@ -1,7 +1,4 @@
 Change made by developer2.
 Change made by developer1.
 Change made to understand .git
-Modified in cdt branch and it is 8th commit
-Modified in cdt branch and it is 9th commit
-
-Commit made from git 1st commit
+Modified in master branch to test git merge from git hub
