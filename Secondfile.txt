@@ -1,4 +1,4 @@
 This is the second file created by developer1
 Modified in cdt branch and it is 10th commit
 
-Commit made from git 2nd commit
+Text added to test merge from git hub
